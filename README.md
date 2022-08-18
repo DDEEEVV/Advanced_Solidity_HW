@@ -26,15 +26,15 @@ I will be creating a fungible token named KaseiCoin that is ERC-20 compliant. Th
 
 1. Creating the KaseiCoin Token Contract
 
-![KaseiCoin_TokenContract](Images/KaseiCoin_TokenContract.png)
+![KaseiCoin_TokenContract](Images_gifs/KaseiCoin_TokenContract.png)
 
 2. Creating the KaseiCoin Crowdsale Contract
 
-![KaseiCoin_CrowdsaleContract](Images/KaseiCoin_CrowdsaleContract.png)
+![KaseiCoin_CrowdsaleContract](Images_gifs/KaseiCoin_CrowdsaleContract.png)
 
 3. Creating the KaseiCoin Deployer Contract
 
-![KaseiCoin_DeployerContract](Images/deploying_crowdsale.gif)
+![KaseiCoin_DeployerContract](Images_gifs/deploying_crowdsale.gif)
 
 4. Deploying and Test the Crowdsale on a Local Blockchain
 
