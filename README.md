@@ -1,6 +1,6 @@
 # Unit 21: Martian Token Crowdsale
 
-![alt=""](Images_gifs/application-image.png)
+![alt=""](Images/application-image.png)
 
 ## Background
 
@@ -26,24 +26,42 @@ I will be creating a fungible token named KaseiCoin that is ERC-20 compliant. Th
 
 1. Creating the KaseiCoin Token Contract
 
-![KaseiCoin_TokenContract](Images_gifs/KaseiCoin_TokenContract.png)
+![KaseiCoin_TokenContract](Images/KaseiCoin_TokenContract.png)
 
 2. Creating the KaseiCoin Crowdsale Contract
 
-![KaseiCoin_CrowdsaleContract](Images_gifs/KaseiCoin_CrowdsaleContract.png)
+![KaseiCoin_CrowdsaleContract](Images/KaseiCoin_CrowdsaleContract.png)
 
 3. Creating the KaseiCoin Deployer Contract on the Local Blockchain
 
-![KaseiCoin_DeployerContract](Images_gifs/deploying_crowdsale.gif)
+![KaseiCoin_DeployerContract](Images/deploying_crowdsale.gif)
 
-![KaseiCoin_purchase](Images_gifs/buying_KaseiCoin.gif)
+![KaseiCoin_purchase](Images/buying_KaseiCoin.gif)
 
-![Ganache_Transactions](Images_gifs/Ganache_transactions.png)
+![Ganache_Transactions](Images/Ganache_transactions.png)
 
 4. Transferring KaseiCoin into wallet
 
-![TransferingToken_tOwallet](Images_gifs/TransferingToken_tOwallet.gif)
+![TransferringToken_tOwallet](Images/TransferingToken_tOwallet.gif)
 
 5. Optional: Extending the Crowdsale Contract by Using OpenZeppelin
 
-> **Note:** 
+![Deploying_crowdsale_optional1](Images/Deploying_crowdsale_optional_1.gif)
+
+![Deploying_crowdsale_optional2](Images/Deploying_crowdsale_optional_2.gif)
+
+![Ganache_Transactions_optional](Images/Ganache_transactions_optional.png)
+
+
+ **Remix IDE:** 
+
+ Ethereum IDE is an open source web and desktop application. It fosters a fast development cycle and has a rich set of plugins with intuitive GUIs. Here, Remix is used for the entire journey of contract development including deployment and testing.
+
+ **MetaMask:** 
+
+ MetaMask allows users to store and manage account keys, broadcast transactions, send and receive Ethereum-based cryptocurrencies and tokens, and securely connect to decentralized applications through a compatible web browser or the mobile app's built-in browser.
+
+ **Ganache:** 
+
+ Ganache allows us to quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
+
